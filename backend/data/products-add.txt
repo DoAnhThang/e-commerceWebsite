@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Apple iPhone 14 Pro Max 128GB - Yellow",
+    "price": "26640000",
+    "short_desc": "iPhone 14 Pro Max một siêu phẩm trong giới smartphone được nhà Táo tung ra thị trường vào tháng 09/2022. Máy trang bị con chip Apple A16 Bionic vô cùng mạnh mẽ, đi kèm theo đó là thiết kế hình màn hình mới, hứa hẹn mang lại những trải nghiệm đầy mới mẻ cho người dùng iPhone.",
+    "long_desc": "Tính năng nổi bật:
+• Thiết kế cao cấp bền bỉ: iPhone năm nay sẽ được thừa hưởng nét đặc trưng từ người anh iPhone 13 Pro Max, vẫn sẽ là khung thép không gỉ và mặt lưng kính cường lực kết hợp với tạo hình vuông vức hiện đại thông qua cách tạo hình phẳng ở các cạnh và phần mặt lưng. Dòng Pro năm nay được ra mắt với nhiều tùy chọn màu sắc và trong đó nổi bật nhất có lẽ là phiên bản Deep Purple (tím), bởi vì đây là một màu mới nên mang lại độ nhận diện khá cao.
+• Thiết kế màn hình mới: Điểm ấn tượng nhất trên điện thoại iPhone năm nay nằm ở thiết kế màn hình, có thể dễ dàng nhận thấy được là hãng cũng đã loại bỏ cụm tai thỏ truyền thống qua bao đời iPhone bằng một hình dáng mới vô cùng lạ mắt.
+• Hiển thị nội dung chân thực hơn thông qua màn hình chất lượng: Tấm nền OLED, Độ phân giải màn hình đạt mức 2796 x 1290 pixels, Hỗ trợ tính năng Always On Display, Tần số quét 120 Hz, Độ sáng 2000 nits, Mặt kính cường lực Ceramic Shield.
+• Bắt trọn mọi khoảnh khắc thông qua camera chính 48 MP.
+• Hiệu năng đáng kinh ngạc với chip set Apple A16 Bionic."
+  }
+]

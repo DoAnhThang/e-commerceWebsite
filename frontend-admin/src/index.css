@@ -1,0 +1,115 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap");
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+
+/* Utilities */
+.fs-7 {
+  font-size: 0.8rem !important;
+}
+.cursor-pointer {
+  cursor: pointer;
+}
+.outline-0 {
+  outline: none !important;
+}
+.h-fit {
+  height: fit-content;
+}
+.bg-lightRed {
+  background-color: #ffc2c2 !important;
+}
+.bg-info-subtle {
+  background-color: #cff4fc;
+}
+.text-warning-hover:hover {
+  color: #ffc107 !important;
+  font-weight: bold;
+}
+.text-shadow-hover:hover {
+  text-shadow: 0 0 2px;
+}
+button:disabled {
+  cursor: not-allowed;
+  pointer-events: all !important;
+}
+
+/* LoadingSpinner */
+.spinner {
+  width: 80px;
+  height: 50vh;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.spinner:after {
+  content: " ";
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  border: 6px solid;
+  border-color: #ffc107 #ffc107 transparent;
+  animation: spinner 1s ease-in-out infinite;
+}
+@keyframes spinner {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* Add Product */
+.add-product--item {
+  width: 50%;
+}
+
+/* Responsive */
+@media (max-width: 991px) {
+  .add-product--item {
+    width: 100%;
+  }
+}
+
+@media (max-width: 767px) {
+  a,
+  table,
+  button {
+    font-size: small !important;
+  }
+
+  /* Infor Order */
+  .infor-order {
+    width: 95% !important;
+  }
+
+  /* Chat */
+  .chat {
+    font-size: small !important;
+  }
+}
+
+@media (max-width: 575px) {
+  /* Add Product */
+  .add-product--item,
+  .add-product--item input,
+  .add-product--item textarea {
+    font-size: small !important;
+  }
+
+  /* Chat */
+  .chat--room {
+    column-gap: 0 !important;
+  }
+  .chat--room-img {
+    display: none;
+  }
+  .chat--room-name {
+    padding: 0 !important;
+  }
+}
